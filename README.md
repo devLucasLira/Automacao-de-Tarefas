@@ -7,7 +7,7 @@
     
     Vou listar cada passo que eu fiz, para ficar bem claro para analise, ou ate mesmo para voce que quer usar para estudo, fique a vontade.
 
-    Passo #1 passo: abrir o navegador.
+    Passo #1 abrir o navegador.
     Passo #2 Abrir o site.
     Passo #3 Fazer o loguin no site.
     Passo #4 Importar a tabela de dados.
