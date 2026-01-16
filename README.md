@@ -10,20 +10,25 @@
 4. Coloque o arquivo `produtos.csv` na mesma pasta (ou ajuste o caminho no código)
 5. Execute o script:  
    `Cadastro de produtos.Py` (ou substitua pelo nome do seu .py)
-##### Tecnologias usadas
+#### Tecnologias usadas
 - Python 3
 - Pandas (leitura e manipulação de dados do CSV)
 - PyAutoGUI (automação de interface gráfica e cliques/digitação)
 
-    A ideia aqui é que esse codigo automatize totalmente uma tarefa repetitiva, usei de exemplo o "cadastro de produtos em um site/sistema de loja", pode ser adaptado para outros tipos de tarefas, adaptando o codigo, aqui é apenas um exemplo do que posso fazer com python. 
+    ####A ideia aqui é que esse codigo automatize totalmente uma tarefa repetitiva, usei de exemplo o "cadastro de produtos em um site/sistema de loja", pode ser adaptado para outros tipos de tarefas, adaptando o codigo, aqui é apenas um exemplo do que posso fazer com python. 
     
     Explicando de maneira simples, o codigo funciona lendo um arquivo com os dados dos produtos: (nome, marca tipo, codigo de produto, preço unitario, custo...etc), vai ate onde deve ser feito o cadastro no caso aqui, no site/sistema de cadastro de produtos da empresa, e      cadastra todos os produtos do arquivo de dados enquanto toma um café :)
     
     Vou listar cada passo que eu fiz, para ficar bem claro para analise, ou ate mesmo para voce que quer usar para estudo, fique a vontade.
 
     Passo #1 abrir o navegador.
+  
     Passo #2 Abrir o site.
+  
     Passo #3 Fazer o loguin no site.
+  
     Passo #4 Importar a tabela de dados.
+  
     Passo #5 Iniciar o cadastro dos produtos da loja.
+  
     Passo #6 Cadastrar todos os produtos da tabela de dados
