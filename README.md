@@ -29,4 +29,4 @@
   
     Passo #5 Iniciar o cadastro dos produtos da loja.
   
-    Passo #6 Cadastrar todos os produtos da tabela de dados
+    Passo #6 Cadastrar todos os produtos da tabela de dados.
