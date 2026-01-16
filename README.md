@@ -19,7 +19,7 @@
 
 ######  Vou listar o passo a paso da execução, para ficar bem claro para analise, ou ate mesmo para voce que quer usar para estudo, fique a vontade.
 
-    **Passo #1 abrir o navegador.**
+    Passo #1 abrir o navegador.
   
     Passo #2 Abrir o site.
   
