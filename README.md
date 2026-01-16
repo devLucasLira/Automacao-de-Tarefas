@@ -1,5 +1,5 @@
 # Automação Local: Cadastro de Produtos.
-## Neste script eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma **loja**. Ideal pra tarefas repetitivas.
+## Neste projeto eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma loja. Ideal pra tarefas repetitivas.
 
 ### A ideia aqui é automatizar totalmente uma tarefa repetitiva, como o cadastro de produtos em um site ou sistema de uma loja, pode ser adaptado para outros tipos de tarefas, ajustando o codigo, aqui é apenas um exemplo de como otimizar as tarefas e te fazer ganhar tempo.
 ### O codigo vai ler um arquivo com os dados dos produtos: (nome, marca, tipo, codigo de produto, preço unitario, custo...etc), vai ate onde deve ser feito o cadastro, seja no site ou sistema de cadastro da empresa, e cadastra todos os produtos do arquivo de dados enquanto voce toma um café :).
