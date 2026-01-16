@@ -9,7 +9,7 @@
    `pip install pandas pyautogui`
 4. Coloque o arquivo `produtos.csv` na mesma pasta (ou ajuste o caminho no código)
 5. Execute o script:  
-   `python nome_do_arquivo.py` (substitua pelo nome do teu .py)
+   `Cadastro de produtos.Py` (ou substitua pelo nome do seu .py)
 ##### Tecnologias usadas
 - Python 3
 - Pandas (leitura e manipulação de dados do CSV)
