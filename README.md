@@ -1,4 +1,4 @@
-# Automação Local de Cadastro de Produtos.
+# Automação Local: Cadastro de Produtos.
 ## Neste script eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma loja simulada. Ideal pra tarefas repetitivas.
 ### Como rodar:
 1. Clone o repositório:  
