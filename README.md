@@ -1,5 +1,15 @@
 # Cadastro-Produtos
 ## Automação Local de Cadastro de Produtos. Neste script eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma loja simulada. Ideal pra tarefas repetitivas.
+### Como rodar
+1. Clone o repositório:  
+   `git clone https://github.com/devLucasLira/Automacao-de-Tarefas.git`
+2. Entre na pasta do projeto:  
+   `cd Automacao-de-Tarefas`
+3. Instale as dependências:  
+   `pip install pandas pyautogui`
+4. Coloque o arquivo `produtos.csv` na mesma pasta (ou ajuste o caminho no código)
+5. Execute o script:  
+   `python nome_do_arquivo.py` (substitua pelo nome do teu .py)
 ##### Tecnologias usadas
 - Python 3
 - Pandas (leitura e manipulação de dados do CSV)
