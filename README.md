@@ -1,5 +1,5 @@
-#Cadastro-Produtos
-##Automação Local de Cadastro de Produtos. Neste script eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma loja simulada. Ideal pra tarefas repetitivas.
+# nCadastro-Produtos
+## Automação Local de Cadastro de Produtos. Neste script eu uso Python, Pandas e PyAutoGUI pra ler dados de um CSV e cadastrar automaticamente em uma loja simulada. Ideal pra tarefas repetitivas.
 ##### Tecnologias usadas
 - Python 3
 - Pandas (leitura e manipulação de dados do CSV)
