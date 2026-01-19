@@ -22,7 +22,6 @@ time.sleep (0.8)
 # 3-Passo: Fazer o loguin no site.
 
 # print(pyautogui.position()) 
-    # isso aqui serve para achar a posição do mouse, para a gente poder dizer ao pyautogui onde clicar.. e assim continuar com o processo. mas como nao é necessario apos achar a posição, vou deixar ele comentado, mas quando for usar e so usar sem o "#"
 
 # time.sleep(5) 
     # aqui serve para dar uma pausa enquanto o site abre, pra dar tempo de tu ir la e por o mouse no lugar certo, se precisar de mais tempo subistitua o "2" por mais, lembrando que o python conta o sleep em segundos.. se passar o mouse la em cima do comndo consegue ver essa informação 
